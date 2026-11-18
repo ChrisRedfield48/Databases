@@ -15,6 +15,7 @@
 - [🔬 Лабораторная №1 — Основные SQL-операции](https://github.com/ChrisRedfield48/products-mysql-sql-lab)
 - [🔬 Лабораторная №2 - Представления (VIEW) в MySQL](https://github.com/ChrisRedfield48/mysql-views-lab)
 - [🔬 Лабораторная №3 — mysql-interactive-lab](https://github.com/ChrisRedfield48/mysql-interactive-lab)
+- [🔬 Лабораторная №4 —/mysql-interactive-lab](https://github.com/ChrisRedfield48/mysql-docker-basics)
 
 ---
 
